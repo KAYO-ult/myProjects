@@ -14,4 +14,4 @@ This repo is a mix of:
 * Coffee (unmeasured)
 * And a healthy disrespect for best practices (just kidding… kinda)
 
-Whether you're here to steal code, judge silently, or accidentally learn something — you’re welcome. Star it if it makes you smile. Fork it if you're brave. Open an issue if you found a bug (or just want to talk about Star Wars).
+Whether you're here to steal code, judge silently, or accidentally learn something — you’re welcome. Star it if it makes you smile. Fork it if you're brave. Open an issue if you found a bug (or just want to talk about Star Wars or Anime).
